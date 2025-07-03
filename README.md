@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Leonidas Brockweld, I've been programing for fun since 2020 and working mainly with Java since then.
+I'm Leonidas Brockweld, I've been programing since 2020 and working mainly with Java since then.
    
    
 #### 👨‍💻 Social  
